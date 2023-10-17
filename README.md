@@ -1,4 +1,4 @@
-#Picture to Ascii-Art
+# Picture to Ascii-Art
 
 this is a simple script that converts a Picture (multiple formats sported) to either
 
@@ -6,4 +6,4 @@ this is a simple script that converts a Picture (multiple formats sported) to ei
   - optionally these letters or the background can be colored too
 - Or a colored Unicode Block (U+2588)
 
-####`python ascii_colors.py -h` for help
+#### `python ascii_colors.py -h` for help
